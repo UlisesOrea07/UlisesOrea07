@@ -6,9 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->
 
-<!-- <h3>•💻 About me 😃 </h3> -->
-<p align="center" >
-  <samp>
+<h3>•💻 About me 😃 </h3> 
    I am a <em>Fullstack</em> developer... 
   <br/> Javascript enthusiast, I like ReactJs & Redux. 
     <br/> <em>student</em> on HENRY bootcamp.
@@ -20,7 +18,7 @@ I like to play chess,
   <br/>
   <br/>
   <br/>
-</p>
+
 
 ### 🛠 Technical Skills
 - 💻 &nbsp;  | JavaScript | HTML | CSS| NodeJS |
