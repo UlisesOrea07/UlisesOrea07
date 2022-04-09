@@ -10,17 +10,12 @@
 <!--I am a 4th Year undergraduate student from Manipal University Jaipur. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that no amount of knowledge  is enough knowledge. 🧠-->
 
 ### 🛠 Technical Skills
-- 💻 &nbsp;  | Java | 
+- 💻 &nbsp;  | JavaScript | HTML | CSS| NodeJS |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript |  ReactJS | Redux
+- 🔧 &nbsp;  | ReactJS | Redux | Express | Git | Github | Styled-Components | Sequelize |
 
-- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🛢 &nbsp; PostgreSQL | MongoDB |
 
-- 🔧 &nbsp; Git | Github |
-<!--
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 ##  :calendar: I'm currently  ...
 
 ### :bar_chart: working:
