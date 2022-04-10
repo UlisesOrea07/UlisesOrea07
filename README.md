@@ -1,10 +1,4 @@
 ![¡Hola! Soy Ulises (10)](https://user-images.githubusercontent.com/31374870/162561273-55a2f2d4-a56c-4a5c-af03-9db4ad15026e.png)
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->
 
 <h3>•💻 About me 😃 </h3> 
    I am a <em>Fullstack</em> developer... 
@@ -18,7 +12,7 @@ I like to play chess,
   <br/>
   <br/>
   <br/>
-
+  
 
 ### 🛠 Technical Skills
 - 💻 &nbsp;  | JavaScript | HTML | CSS| NodeJS |
@@ -53,7 +47,10 @@ I like to play chess,
 <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 -->
 
-<a href="mailto:j.ulisesorea@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-j.ulisesorea@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)-->
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+522431129578&text=Olá!)](https://api.whatsapp.com/send?phone=+522431129578&text=Hola!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/UlisesOrea)](https://t.me/UlisesOrea)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.ulisesorea@gmail.com)](mailto:j.ulisesorea@gmail.com)
 
 </p>
 
