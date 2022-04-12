@@ -1,7 +1,7 @@
 ![¡Hola! Soy Ulises (10)](https://user-images.githubusercontent.com/31374870/162561273-55a2f2d4-a56c-4a5c-af03-9db4ad15026e.png)
 
 <h3>•💻 About me 😃 </h3> 
-   I am a <em>Fullstack</em> javascropt developer... 
+   I am a <em>Fullstack</em> javascript developer... 
   <br/> Javascript enthusiast, I like ReactJs & Redux. 
     <br/> <em>student</em> on HENRY bootcamp.
       <br/>
