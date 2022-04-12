@@ -7,7 +7,7 @@
       <br/>
 I like to play chess,
           <br/>
-   continuously <em>learning</em>, wanting to help the community
+   continuously <em>learning</em>
   </samp>
   <br/>
   <br/>
