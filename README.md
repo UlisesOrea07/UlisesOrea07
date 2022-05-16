@@ -25,7 +25,7 @@ I like to play chess,
 
 ### :bar_chart: working:
 
- - In a web project; Tickets-App at bootcamp HENRY as a developer.
+ - In a web project; e-comerce at bootcamp HENRY as a developer.
  - Using: Reactjs, Nodejs, express, PostgreSQL, Bootstrap, React-Redux, JavaScript
  
  ### :books: Learning:
