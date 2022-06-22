@@ -23,11 +23,12 @@ I like to play chess,
 
 ##  :calendar: I'm currently  ...
 
+<!--
 ### :bar_chart: working:
 
  - In a web project; e-comerce at bootcamp HENRY as a developer.
  - Using: Reactjs, Nodejs, express, PostgreSQL, Bootstrap, React-Redux, JavaScript, Firebase, Sequelize
- 
+ -->
  ### :books: Learning:
  - | Typescript | AWS |
 
